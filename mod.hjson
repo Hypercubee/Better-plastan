@@ -1,0 +1,7 @@
+name: "better-plastan"
+displayName: "Better plastan"
+author: "god"
+version: 1
+minGameVersion: 136
+description: "adds new way to produce plastanium"
+hidden: false
